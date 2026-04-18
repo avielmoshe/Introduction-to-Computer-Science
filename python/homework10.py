@@ -75,9 +75,6 @@ def q4():
 def q5():
     pass
 
-def q6():
-    pass
-
 def main():
     # q1()
     # q2()
